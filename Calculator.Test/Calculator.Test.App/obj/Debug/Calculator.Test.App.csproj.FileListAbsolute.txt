@@ -1,0 +1,7 @@
+C:\Git Temp\Training\Calculator.Test\Calculator.Test.App\obj\Debug\Calculator.Test.App.csprojResolveAssemblyReference.cache
+C:\Git Temp\Training\Calculator.Test\Calculator.Test.App\bin\Debug\Calculator.Test.App.dll
+C:\Git Temp\Training\Calculator.Test\Calculator.Test.App\bin\Debug\Calculator.Test.App.pdb
+C:\Git Temp\Training\Calculator.Test\Calculator.Test.App\bin\Debug\nunit.framework.dll
+C:\Git Temp\Training\Calculator.Test\Calculator.Test.App\bin\Debug\nunit.framework.xml
+C:\Git Temp\Training\Calculator.Test\Calculator.Test.App\obj\Debug\Calculator.Test.App.dll
+C:\Git Temp\Training\Calculator.Test\Calculator.Test.App\obj\Debug\Calculator.Test.App.pdb
