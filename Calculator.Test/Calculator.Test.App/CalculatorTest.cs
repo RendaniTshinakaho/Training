@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System;
+using System.Linq;
 using NUnit.Framework;
 namespace Calculator.Test.App
 {
@@ -21,7 +22,7 @@ namespace Calculator.Test.App
         [TestCase("1",1)]
         [TestCase("2",2)]
         [TestCase("3",3)]
-        public void CanAdd_A_stringValueReturnsAValue(string input,int expected)
+        public void CanAddAStringValueReturnsAValue(string input,int expected)
         {
             var result = _calculator.Add(input);
             Assert.That(result,Is.EqualTo(expected));
@@ -63,12 +64,20 @@ namespace Calculator.Test.App
             Assert.That(result, Is.EqualTo(3));
         }
 
-        [TestCase("-1,2")]
-        public void AddNegativeNumbersMustThrowsAnException(string input)
+        [TestCase("-1,2",-1)]
+        public void AddNegativeNumbersMustThrowsAnException(string input,int expected)
         {
-            var result = _calculator.Add(input);
-            Assert.That(result,Is.LessThan(-1));
+            try
+            {
+                var result = _calculator.Add(input);
+              //  Assert.That(result, Is.LessThan(expected));
+            }
+            catch (System.Exception)
+            {
+                throw new Exception("Negatives not allowed");
+            }
         }
+
     }
 
     public class Calculator
