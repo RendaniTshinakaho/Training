@@ -70,12 +70,17 @@ namespace Calculator.Test.App
             try
             {
                 var result = _calculator.Add(input);
-              //  Assert.That(result, Is.LessThan(expected));
             }
-            catch (System.Exception)
+            catch (Exception)
             {
                 throw new Exception("Negatives not allowed");
             }
+        }
+
+        [Test]
+        public void NumberBiggerThan1000ShouldbeIgnore()
+        {
+            var result = _calculator.Add();
         }
 
     }
