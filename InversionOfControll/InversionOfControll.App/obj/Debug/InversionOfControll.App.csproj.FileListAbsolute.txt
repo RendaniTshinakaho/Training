@@ -1,0 +1,9 @@
+C:\Git Temp\Training\InversionOfControll\InversionOfControll.App\bin\Debug\InversionOfControll.App.exe.config
+C:\Git Temp\Training\InversionOfControll\InversionOfControll.App\bin\Debug\InversionOfControll.App.exe
+C:\Git Temp\Training\InversionOfControll\InversionOfControll.App\bin\Debug\InversionOfControll.App.pdb
+C:\Git Temp\Training\InversionOfControll\InversionOfControll.App\obj\Debug\InversionOfControll.App.csprojResolveAssemblyReference.cache
+C:\Git Temp\Training\InversionOfControll\InversionOfControll.App\obj\Debug\InversionOfControll.App.exe
+C:\Git Temp\Training\InversionOfControll\InversionOfControll.App\obj\Debug\InversionOfControll.App.pdb
+C:\Git Temp\Training\InversionOfControll\InversionOfControll.App\bin\Debug\Ninject.dll
+C:\Git Temp\Training\InversionOfControll\InversionOfControll.App\bin\Debug\Ninject.pdb
+C:\Git Temp\Training\InversionOfControll\InversionOfControll.App\bin\Debug\Ninject.xml

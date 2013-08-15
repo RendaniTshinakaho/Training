@@ -1,0 +1,11 @@
+C:\Git Temp\Training\AdoNet.DataLayer\Repository\bin\Debug\Repository.dll
+C:\Git Temp\Training\AdoNet.DataLayer\Repository\bin\Debug\Repository.pdb
+C:\Git Temp\Training\AdoNet.DataLayer\Repository\bin\Debug\AdoNet.DataLayer.dll
+C:\Git Temp\Training\AdoNet.DataLayer\Repository\bin\Debug\DomainClasses.dll
+C:\Git Temp\Training\AdoNet.DataLayer\Repository\bin\Debug\EntityFramework.dll
+C:\Git Temp\Training\AdoNet.DataLayer\Repository\bin\Debug\AdoNet.DataLayer.pdb
+C:\Git Temp\Training\AdoNet.DataLayer\Repository\bin\Debug\DomainClasses.pdb
+C:\Git Temp\Training\AdoNet.DataLayer\Repository\bin\Debug\EntityFramework.xml
+C:\Git Temp\Training\AdoNet.DataLayer\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Git Temp\Training\AdoNet.DataLayer\Repository\obj\Debug\Repository.dll
+C:\Git Temp\Training\AdoNet.DataLayer\Repository\obj\Debug\Repository.pdb

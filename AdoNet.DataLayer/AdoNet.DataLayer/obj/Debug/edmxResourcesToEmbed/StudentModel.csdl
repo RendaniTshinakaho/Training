@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="StudentDatabaseTestModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="StudentDatabaseTestEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Students" EntityType="StudentDatabaseTestModel.Student" />
+    <EntitySet Name="Subjects" EntityType="StudentDatabaseTestModel.Subject" />
+    <AssociationSet Name="FK_dbo_Subjects_dbo_Students_Student_StudentId" Association="StudentDatabaseTestModel.FK_dbo_Subjects_dbo_Students_Student_StudentId">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Subjects" EntitySet="Subjects" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="StudentId" />
+    </Key>
+    <Property Name="StudentId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Subjects" Relationship="StudentDatabaseTestModel.FK_dbo_Subjects_dbo_Students_Student_StudentId" FromRole="Students" ToRole="Subjects" />
+  </EntityType>
+  <EntityType Name="Subject">
+    <Key>
+      <PropertyRef Name="SubjectId" />
+    </Key>
+    <Property Name="SubjectId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Student_StudentId" Type="Int32" />
+    <NavigationProperty Name="Student" Relationship="StudentDatabaseTestModel.FK_dbo_Subjects_dbo_Students_Student_StudentId" FromRole="Subjects" ToRole="Students" />
+  </EntityType>
+  <Association Name="FK_dbo_Subjects_dbo_Students_Student_StudentId">
+    <End Role="Students" Type="StudentDatabaseTestModel.Student" Multiplicity="0..1" />
+    <End Role="Subjects" Type="StudentDatabaseTestModel.Subject" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="StudentId" />
+      </Principal>
+      <Dependent Role="Subjects">
+        <PropertyRef Name="Student_StudentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

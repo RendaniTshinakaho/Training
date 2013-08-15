@@ -1,0 +1,7 @@
+C:\Git Temp\Training\AdoNet.DataLayer\AdoNet.DataLayer\bin\Debug\AdoNet.DataLayer.dll.config
+C:\Git Temp\Training\AdoNet.DataLayer\AdoNet.DataLayer\bin\Debug\AdoNet.DataLayer.dll
+C:\Git Temp\Training\AdoNet.DataLayer\AdoNet.DataLayer\bin\Debug\AdoNet.DataLayer.pdb
+C:\Git Temp\Training\AdoNet.DataLayer\AdoNet.DataLayer\bin\Debug\EntityFramework.dll
+C:\Git Temp\Training\AdoNet.DataLayer\AdoNet.DataLayer\bin\Debug\EntityFramework.xml
+C:\Git Temp\Training\AdoNet.DataLayer\AdoNet.DataLayer\obj\Debug\AdoNet.DataLayer.dll
+C:\Git Temp\Training\AdoNet.DataLayer\AdoNet.DataLayer\obj\Debug\AdoNet.DataLayer.pdb

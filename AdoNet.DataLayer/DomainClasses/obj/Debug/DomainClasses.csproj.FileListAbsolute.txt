@@ -1,0 +1,7 @@
+C:\Git Temp\Training\AdoNet.DataLayer\DomainClasses\bin\Debug\DomainClasses.dll
+C:\Git Temp\Training\AdoNet.DataLayer\DomainClasses\bin\Debug\DomainClasses.pdb
+C:\Git Temp\Training\AdoNet.DataLayer\DomainClasses\bin\Debug\EntityFramework.dll
+C:\Git Temp\Training\AdoNet.DataLayer\DomainClasses\bin\Debug\EntityFramework.xml
+C:\Git Temp\Training\AdoNet.DataLayer\DomainClasses\obj\Debug\DomainClasses.csprojResolveAssemblyReference.cache
+C:\Git Temp\Training\AdoNet.DataLayer\DomainClasses\obj\Debug\DomainClasses.dll
+C:\Git Temp\Training\AdoNet.DataLayer\DomainClasses\obj\Debug\DomainClasses.pdb
