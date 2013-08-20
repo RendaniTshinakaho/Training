@@ -1,0 +1,5 @@
+C:\Git Temp\Training\StringCalculator\StringCalculator\bin\Debug\StringCalculator.dll
+C:\Git Temp\Training\StringCalculator\StringCalculator\bin\Debug\StringCalculator.pdb
+C:\Git Temp\Training\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csprojResolveAssemblyReference.cache
+C:\Git Temp\Training\StringCalculator\StringCalculator\obj\Debug\StringCalculator.dll
+C:\Git Temp\Training\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb

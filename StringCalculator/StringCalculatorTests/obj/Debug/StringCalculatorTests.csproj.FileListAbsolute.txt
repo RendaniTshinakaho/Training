@@ -1,0 +1,9 @@
+C:\Git Temp\Training\StringCalculator\StringCalculatorTests\bin\Debug\StringCalculatorTests.dll
+C:\Git Temp\Training\StringCalculator\StringCalculatorTests\bin\Debug\StringCalculatorTests.pdb
+C:\Git Temp\Training\StringCalculator\StringCalculatorTests\bin\Debug\nunit.framework.dll
+C:\Git Temp\Training\StringCalculator\StringCalculatorTests\bin\Debug\StringCalculator.dll
+C:\Git Temp\Training\StringCalculator\StringCalculatorTests\bin\Debug\StringCalculator.pdb
+C:\Git Temp\Training\StringCalculator\StringCalculatorTests\bin\Debug\nunit.framework.xml
+C:\Git Temp\Training\StringCalculator\StringCalculatorTests\obj\Debug\StringCalculatorTests.csprojResolveAssemblyReference.cache
+C:\Git Temp\Training\StringCalculator\StringCalculatorTests\obj\Debug\StringCalculatorTests.dll
+C:\Git Temp\Training\StringCalculator\StringCalculatorTests\obj\Debug\StringCalculatorTests.pdb
