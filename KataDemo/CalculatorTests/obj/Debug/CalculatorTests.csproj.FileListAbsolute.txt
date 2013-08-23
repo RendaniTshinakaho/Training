@@ -1,0 +1,7 @@
+C:\Git Temp\Training\KataDemo\CalculatorTests\bin\Debug\CalculatorTests.dll
+C:\Git Temp\Training\KataDemo\CalculatorTests\bin\Debug\CalculatorTests.pdb
+C:\Git Temp\Training\KataDemo\CalculatorTests\bin\Debug\nunit.framework.dll
+C:\Git Temp\Training\KataDemo\CalculatorTests\bin\Debug\nunit.framework.xml
+C:\Git Temp\Training\KataDemo\CalculatorTests\obj\Debug\CalculatorTests.csprojResolveAssemblyReference.cache
+C:\Git Temp\Training\KataDemo\CalculatorTests\obj\Debug\CalculatorTests.dll
+C:\Git Temp\Training\KataDemo\CalculatorTests\obj\Debug\CalculatorTests.pdb
